@@ -1,0 +1,28 @@
+{
+  "color": 15409378,
+  "author": {
+    "name": "",
+    "url": "",
+    "icon_url": ""
+  },
+  "title": "**Stats | Profit Tracker**",
+  "url": "",
+  "description": "",
+  "fields": [
+    {
+      "name": "",
+      "value": "",
+      "inline": false
+    }
+  ],
+  "thumbnail": {
+    "url": ""
+  },
+  "image": {
+    "url": ""
+  },
+  "footer": {
+    "text": "Card World",
+    "icon_url": "https://cdn.discordapp.com/attachments/869600798785548308/870085590094327848/image0.png"
+  }
+}

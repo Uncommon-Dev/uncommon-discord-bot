@@ -1,0 +1,18 @@
+{
+  "general": {
+    "token": "your bot token",
+    "prefix" : "bot prefix, currently !"
+  },
+  "sql": {
+    "host": "database host",
+    "database": "database db name",
+    "username": "database user",
+    "password": "database password",
+    "port": "database pord"
+  },
+  "tracker": {
+    "currency": "currency symbol to use, currently $",
+    "wait_time": "amount of seconds to wait for user response / interaction",
+    "leaderboard_emojis": "list of 5 emojis to use on leaderboard"
+  }
+}

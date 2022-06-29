@@ -1,0 +1,24 @@
+{
+  "general": {
+    "token": "ODE4Mjk5MjYzOTg0MzM2OTA3.YEWCkw.GjNBqrw3t4-8vRnRUHbx9zxoNis",
+    "prefix" : "!"
+  },
+  "sql": {
+    "host": "ny1-sql.zinark.com",
+    "database": "s15_profit_tracker_bot",
+    "username": "u15_dHlWVvXvzc",
+    "password": "xOV^!XvNITQfgol6TMHH3RFP",
+    "port": 3306
+  },
+  "tracker": {
+    "currency": "$",
+    "wait_time": 60,
+    "leaderboard_emojis": [
+      "🥇",
+      "🥈",
+      "🥉",
+      "🏅",
+      "🏅"
+    ]
+  }
+}
